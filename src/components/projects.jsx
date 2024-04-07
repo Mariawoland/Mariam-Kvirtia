@@ -12,7 +12,7 @@ function Projects() {
             <div>
 
                 <div className='w-full h-[120vh]'>
-                    <img src='/Images/images/background.jpg' className='h-full w-full object-cover' />
+                    <img src='/images/images/background.jpg' className='h-full w-full object-cover' />
                     <p className='absolute right-7 ps-7 bottom-9 font-extralight sm:text-xl text-lg'>Every crisis could be new opportunity to explore
                         <br className='sm:block hidden' /> yourself, like Photography become for me...</p>
                 </div>
@@ -40,991 +40,991 @@ function Projects() {
                         <Swiper navigation={true}
                             loop={true} modules={[Navigation]} className='w-full h-full' style={{ '--swiper-navigation-color': '#ffffff' }}>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/3.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/3.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/2.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/2.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/1.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/1.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/4.jpeg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/4.jpeg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/5.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/5.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/6.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/6.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/7.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/7.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/8.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/8.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/9.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/9.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/10.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/10.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/11.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/11.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/12.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/12.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/13.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/13.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/14.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/14.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/15.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/15.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/16.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/16.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/17.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/17.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/18.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/18.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/19.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/19.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/20.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/20.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/20.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/20.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/21.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/21.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/22.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/22.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/23.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/23.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/24.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/24.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/25.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/25.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/26.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/26.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/27.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/27.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/28.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/28.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/29.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/29.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/30.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/30.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/31.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/31.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/32.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/32.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/33.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/33.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/34.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/34.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/35.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/35.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/36.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/36.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/37.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/37.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/38.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/38.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/39.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/39.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/40.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/40.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/41.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/41.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/42.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/42.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/43.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/43.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/44.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/44.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/45.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/45.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/46.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/46.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/47.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/47.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/48.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/48.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/49.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/49.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/50.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/50.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/51.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/51.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/52.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/52.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/53.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/53.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/54.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/54.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/55.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/55.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/56.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/56.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/57.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/57.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/58.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/58.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/59.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/59.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/60.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/60.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/61.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/61.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/62.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/62.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/63.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/63.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/64.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/64.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/65.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/65.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/66.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/66.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/67.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/67.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/68.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/68.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/69.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/69.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/70.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/70.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/71.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/71.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/72.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/72.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/73.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/73.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/74.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/74.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/75.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/75.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/76.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/76.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/77.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/77.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/78.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/78.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/79.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/79.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/80.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/80.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/81.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/81.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/82.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/82.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/83.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/83.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/84.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/84.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/85.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/85.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/86.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/86.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/87.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/87.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/88.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/88.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/89.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/89.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/90.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/90.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/91.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/91.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/92.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/92.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/93.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/93.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/94.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/94.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/95.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/95.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/96.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/96.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/97.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/97.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/98.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/98.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/99.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/99.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/100.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/100.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/101.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/101.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/102.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/102.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/103.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/103.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/104.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/104.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/105.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/105.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/106.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/106.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/107.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/107.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/108.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/108.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/109.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/109.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/110.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/110.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/111.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/111.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/112.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/112.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/113.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/113.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/114.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/114.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/115.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/115.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/116.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/116.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/117.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/117.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/118.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/118.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/119.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/119.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/120.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/120.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/121.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/121.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/122.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/122.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/123.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/123.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/124.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/124.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/125.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/125.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/126.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/126.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/127.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/127.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/128.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/128.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/129.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/129.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/130.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/130.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/131.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/131.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/132.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/132.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/133.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/133.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/134.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/134.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/135.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/135.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/136.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/136.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/137.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/137.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/138.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/138.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/139.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/139.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/140.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/140.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/141.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/141.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/142.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/142.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/143.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/143.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/144.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/144.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/145.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/145.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/146.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/146.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/147.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/147.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/148.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/148.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/149.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/149.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/150.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/150.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/151.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/151.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/152.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/152.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/153.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/153.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/154.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/154.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/155.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/155.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/156.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/156.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/157.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/157.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/158.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/158.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/159.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/159.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/160.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/160.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/161.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/161.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/162.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/162.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/163.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/163.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/164.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/164.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/165.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/165.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/166.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/166.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/167.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/167.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/168.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/168.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/169.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/169.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/170.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/170.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/171.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/171.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/172.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/172.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/173.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/173.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/174.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/174.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/175.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/175.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/176.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/176.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/177.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/177.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/178.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/178.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/179.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/179.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/180.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/180.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/181.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/181.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/182.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/182.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/183.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/183.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/184.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/184.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/185.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/185.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/186.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/186.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/187.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/187.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/188.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/188.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/189.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/189.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/190.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/190.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/191.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/191.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/192.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/192.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/193.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/193.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/194.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/194.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/195.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/195.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/196.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/196.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/197.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/197.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/198.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/198.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/199.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/199.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/200.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/200.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/201.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/201.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/202.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/202.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/203.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/203.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/204.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/204.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/205.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/205.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/206.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/206.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/207.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/207.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/208.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/208.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/209.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/209.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/210.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/210.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/211.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/211.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/212.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/212.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/213.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/213.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/214.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/214.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/215.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/215.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/216.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/216.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/217.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/217.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/218.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/218.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/219.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/219.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/220.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/220.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/221.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/221.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/222.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/222.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/223.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/223.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/224.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/224.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/225.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/225.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/226.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/226.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/227.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/227.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/228.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/228.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/229.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/229.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/230.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/230.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/231.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/231.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/232.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/232.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/233.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/233.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/234.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/234.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/235.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/235.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/236.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/236.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/237.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/237.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/238.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/238.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/239.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/239.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/240.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/240.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/241.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/241.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/242.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/242.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/243.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/243.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/244.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/244.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/245.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/245.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/246.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/246.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/247.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/247.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/248.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/248.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/249.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/249.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/250.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/250.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/251.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/251.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/252.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/252.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/253.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/253.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/254.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/254.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/255.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/255.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/256.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/256.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/257.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/257.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/258.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/258.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/259.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/259.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/260.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/260.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/261.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/261.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/262.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/262.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/263.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/263.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/264.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/264.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/265.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/265.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/266.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/266.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/267.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/267.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/268.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/268.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/269.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/269.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/270.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/270.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/271.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/271.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/272.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/272.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/273.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/273.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/274.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/274.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/275.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/275.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/276.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/276.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/277.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/277.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/278.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/278.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/279.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/279.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/280.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/280.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/281.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/281.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/282.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/282.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/283.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/283.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/284.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/284.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/285.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/285.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/286.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/286.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/287.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/287.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/288.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/288.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/289.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/289.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/290.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/290.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/291.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/291.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/292.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/292.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/293.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/293.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/294.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/294.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/295.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/295.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/296.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/296.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/297.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/297.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/298.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/298.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/299.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/299.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/300.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/300.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/301.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/301.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/302.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/302.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/303.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/303.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/304.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/304.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/305.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/305.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/306.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/306.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/307.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/307.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/308.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/308.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/309.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/309.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/310.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/310.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/311.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/311.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/312.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/312.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/313.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/313.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/314.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/314.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/315.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/315.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/316.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/316.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/317.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/317.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/318.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/318.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/319.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/319.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/320.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/320.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/321.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/321.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/322.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/322.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/323.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/323.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/324.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/324.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/325.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/325.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/326.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/326.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/327.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/327.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/328.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/328.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                         </Swiper>
                     </div>
@@ -1154,88 +1154,88 @@ function Projects() {
                         <Swiper navigation={true}
                             loop={true} modules={[Navigation]} className='w-full h-full' style={{ '--swiper-navigation-color': '#ffffff' }}>
                             <SwiperSlide>
-                                <img src="Images/images/sochiki/1.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/sochiki/1.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/2.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/2.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/3.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/3.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/4.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/4.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/5.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/5.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/6.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/6.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/7.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/7.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/8.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/8.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/9.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/9.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/10.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/10.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/11.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/11.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/12.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/12.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/13.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/13.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/14.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/14.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/15.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/15.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/16.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/16.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/17.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/17.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/18.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/18.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/19.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/19.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/20.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/20.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/21.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/21.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/22.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/22.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/23.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/23.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/24.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/24.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/25.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/25.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/26.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/26.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/27.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/27.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/1/28.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/1/28.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                         </Swiper>
                     </div>
@@ -1262,88 +1262,88 @@ function Projects() {
                         <Swiper navigation={true}
                             loop={true} modules={[Navigation]} className='w-full h-full' style={{ '--swiper-navigation-color': '#ffffff' }}>
                             <SwiperSlide>
-                                <img src="Images/images/2/1.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/1.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/2.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/2.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/3.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/3.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/4.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/4.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/5.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/5.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/6.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/6.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/7.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/7.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/8.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/8.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/9.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/9.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/10.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/10.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/11.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/11.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/12.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/12.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/13.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/13.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/14.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/14.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/15.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/15.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/16.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/16.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/17.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/17.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/18.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/18.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/19.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/19.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/20.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/20.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/21.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/21.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/22.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/22.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/23.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/23.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/24.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/24.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/25.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/25.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/26.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/26.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/27.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/27.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="Images/images/2/28.jpg" className="w-full h-full object-cover" />
+                                <img src="images/images/2/28.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                         </Swiper>
                     </div>
@@ -1359,10 +1359,10 @@ function Projects() {
                     <div className='w-full overflow-auto spezscroll'>
 
                         <div className='flex flex-nowrap'>
-                            <img src="Images/images/ex/1.jpeg" className='md:w-1/2 w-full' />
-                            <img src="Images/images/ex/2.jpeg" className='md:w-1/2 w-full' />
-                            <img src="Images/images/ex/3.jpeg" className='md:w-1/2 w-full' />
-                            <img src="Images/images/ex/4.jpeg" className='md:w-1/2 w-full' />
+                            <img src="images/images/ex/1.jpeg" className='md:w-1/2 w-full' />
+                            <img src="images/images/ex/2.jpeg" className='md:w-1/2 w-full' />
+                            <img src="images/images/ex/3.jpeg" className='md:w-1/2 w-full' />
+                            <img src="images/images/ex/4.jpeg" className='md:w-1/2 w-full' />
                         </div>
 
                     </div>

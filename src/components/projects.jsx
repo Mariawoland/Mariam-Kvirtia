@@ -1154,88 +1154,88 @@ function Projects() {
                         <Swiper navigation={true}
                             loop={true} modules={[Navigation]} className='w-full h-full' style={{ '--swiper-navigation-color': '#ffffff' }}>
                             <SwiperSlide>
-                                <img src="/images/images/1/1.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/1.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/2.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/2.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/3.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/3.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/4.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/4.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/5.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/5.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/6.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/6.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/7.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/7.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/8.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/8.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/9.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/9.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/10.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/10.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/11.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/11.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/12.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/12.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/13.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/13.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/14.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/14.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/15.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/15.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/16.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/16.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/17.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/17.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/18.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/18.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/19.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/19.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/20.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/20.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/21.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/21.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/22.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/22.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/23.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/23.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/24.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/24.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/25.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/25.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/26.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/26.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/27.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/27.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                             <SwiperSlide>
-                                <img src="/images/images/1/28.JPG" className="w-full h-full object-cover" />
+                                <img src="/images/images/1/28.jpg" className="w-full h-full object-cover" />
                             </SwiperSlide>
                         </Swiper>
                     </div>

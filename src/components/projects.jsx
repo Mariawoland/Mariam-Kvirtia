@@ -12,7 +12,7 @@ function Projects() {
             <div>
 
                 <div className='w-full h-[120vh]'>
-                    <img src='Images/images/background.jpg' className='h-full w-full object-cover' />
+                    <img src='/Images/images/background.jpg' className='h-full w-full object-cover' />
                     <p className='absolute right-7 ps-7 bottom-9 font-extralight sm:text-xl text-lg'>Every crisis could be new opportunity to explore
                         <br className='sm:block hidden' /> yourself, like Photography become for me...</p>
                 </div>

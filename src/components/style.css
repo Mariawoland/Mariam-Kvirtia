@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "font";
+    src: url("../../Roboto.ttf");
+}
+
+* {
+    font-family: "font";
+    scroll-behavior: smooth;
+}
+
+.spezscroll::-webkit-scrollbar {
+    width: 7px;
+    transform: translate(0px 10px);
+}
+
+.spezscroll::-webkit-scrollbar-track {
+    background: #fafafa;
+}
+
+.spezscroll::-webkit-scrollbar-thumb {
+    background: #cfcfcf;
+    border-radius: 10px;
+}
